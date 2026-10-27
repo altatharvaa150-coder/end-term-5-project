@@ -3,6 +3,7 @@
 ![HireStream](https://img.shields.io/badge/HireStream-Recruitment%20Platform-6366f1?style=for-the-badge)
 ![MERN](https://img.shields.io/badge/Stack-MERN-10b981?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-ISC-blue?style=for-the-badge)
+[![Demo Video](https://img.shields.io/badge/Demo-Watch%20Video-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16KQz-e4E_PzE3Bsx0VE3eO_VwYhGcV4U/view?usp=sharing)
 
 ---
 
@@ -162,8 +163,8 @@ hirestream/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/hirestream.git
-cd hirestream
+git clone https://github.com/altatharvaa150-coder/end-term-5-project.git
+cd end-term-5-project/hirestream
 ```
 
 ### 2. Server Setup
@@ -217,7 +218,10 @@ NODE_ENV=development
 
 ## 📹 Demo
 
-[Demo Video Link — Coming Soon]
+[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16KQz-e4E_PzE3Bsx0VE3eO_VwYhGcV4U/view?usp=sharing)
+
+Watch the complete project walkthrough and feature demonstration:  
+🔗 **[HireStream Project Walkthrough Video (Google Drive)](https://drive.google.com/file/d/16KQz-e4E_PzE3Bsx0VE3eO_VwYhGcV4U/view?usp=sharing)**
 
 ---
 
